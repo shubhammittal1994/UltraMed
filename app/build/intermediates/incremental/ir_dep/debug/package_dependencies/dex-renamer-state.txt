@@ -1,0 +1,4 @@
+#Sun Aug 25 12:39:52 IST 2019
+base.0=/Users/himanshumittal/Downloads/infoenumbit-ultra-med-android-b8afd47bebfb/app/build/intermediates/transforms/dexMerger/debug/10
+path.0=classes.dex
+renamed.0=classes.dex

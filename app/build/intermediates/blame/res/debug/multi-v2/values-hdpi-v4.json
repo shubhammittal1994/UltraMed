@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/himanshumittal/Downloads/infoenumbit-ultra-med-android-b8afd47bebfb/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/Users/himanshumittal/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/ca5ab64ecbb086fbab2d65596f2fb27d/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    },
+                    "to": {
+                        "startLines": "34",
+                        "startColumns": "4",
+                        "startOffsets": "1293",
+                        "endLines": "38",
+                        "endColumns": "13",
+                        "endOffsets": "1565"
+                    }
+                },
+                {
+                    "source": "/Users/himanshumittal/Downloads/infoenumbit-ultra-med-android-b8afd47bebfb/app/src/main/res/values-hdpi/dimens.xml",
+                    "from": {
+                        "startLines": "37,9,7,15,8,35,10,6,14,11,16,12,30,13,4,19,3,42,34,17,43,5,18,32,40,24,26,25,21,22,23,28",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1137,281,208,504,244,1097,317,171,465,354,543,391,969,428,95,664,56,1229,1058,580,1266,134,617,1009,1186,815,888,851,704,741,778,925",
+                        "endColumns": "46,35,35,38,36,38,36,36,38,36,36,36,38,36,38,38,38,36,38,36,36,36,46,47,41,35,35,36,36,36,36,42",
+                        "endOffsets": "1179,312,239,538,276,1131,349,203,499,386,575,423,1003,460,129,698,90,1261,1092,612,1298,166,659,1052,1223,846,919,883,736,773,810,963"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,102,138,174,213,250,289,326,363,402,439,476,513,552,589,628,667,706,743,782,819,856,893,940,988,1030,1066,1102,1139,1176,1213,1250",
+                        "endColumns": "46,35,35,38,36,38,36,36,38,36,36,36,38,36,38,38,38,36,38,36,36,36,46,47,41,35,35,36,36,36,36,42",
+                        "endOffsets": "97,133,169,208,245,284,321,358,397,434,471,508,547,584,623,662,701,738,777,814,851,888,935,983,1025,1061,1097,1134,1171,1208,1245,1288"
+                    }
+                }
+            ]
+        }
+    ]
+}
